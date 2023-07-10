@@ -3,11 +3,10 @@
 
 - Data files: <[BRFSSdata](https://github.com/charriemascio/Capstone2Diabetes/tree/main/BRFSSdata)>
 
-- 
-Capstone2DataWrangling.ipynb
-Capstone2EDA.ipynb
-Capstone2Preprocessing.ipynb
-Capstone2Modeling.ipynb
+- Data cleaning Jupyter Notebook: <https://github.com/charriemascio/Capstone2Diabetes/tree/main/Capstone2DataWrangling.ipynb>
+- EDA Jupyter Notebook: <https://github.com/charriemascio/Capstone2Diabetes/edit/main/Capstone2EDA.ipynb>
+- Preprocessing Jupyter Notebook: <https://github.com/charriemascio/Capstone2Diabetes/edit/main/Capstone2Preprocessing.ipynb>
+- Data Modeling Jupyter Notebook: <https://github.com/charriemascio/Capstone2Diabetes/edit/main/Capstone2Modeling.ipynb>
 
-Capstone2FinalProjectReport.pdf
-Capstone2ModelMetricsFile.docx
+- Project Final Report: <https://github.com/charriemascio/Capstone2Diabetes/edit/main/Capstone2FinalProjectReport.pdf>
+- Model Metrics: <https://github.com/charriemascio/Capstone2Diabetes/edit/main/Capstone2ModelMetricsFile.docx>

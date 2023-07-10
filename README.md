@@ -1,7 +1,9 @@
 # Capstone2Diabetes
 
 
-- Data files: <BRFSSdata>
+- Data files: <[BRFSSdata](https://github.com/charriemascio/Capstone2Diabetes/tree/main/BRFSSdata)>
+
+- 
 Capstone2DataWrangling.ipynb
 Capstone2EDA.ipynb
 Capstone2Preprocessing.ipynb
